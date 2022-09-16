@@ -6,7 +6,7 @@ const App = () => {
     <div className="App">
       <div>
         
- <h1 className="heading"> NEA PROJECT</h1>
+ <h1 className="heading"> JIBRAN IS STINKY LLLLLLLLLLLLL</h1>
       
       </div>
     </div>
